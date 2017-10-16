@@ -4,4 +4,5 @@ Hello world! Im a mechanical engineer learning computer science/programming/web-
 
 As part of learning, I edited this file in vim in Git in my local machine and then pushed it back to my remote repo. Cool!
 
-I removed the old line because I don't like it. 
+This is a line I added because I want to test how branching works.
+
