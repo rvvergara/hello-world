@@ -6,3 +6,4 @@ As part of learning, I edited this file in vim in Git in my local machine and th
 
 This is a line I added because I want to test how branching works.
 
+I think Git is fun!
